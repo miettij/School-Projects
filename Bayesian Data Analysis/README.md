@@ -8,5 +8,5 @@ Install pystan:
 type "jupiter notebook" in terminal when working directory is above the BDA_project.ipynb and
 other related files.
 
-#Authors
+# Authors
 Jarkko Tulensalo & Jesse Miettinen
